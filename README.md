@@ -9,6 +9,7 @@
 ### :pencil: Report
 COVID-19 Cases Analysis in Netherlands with Growth Models
 
+<br>
 
 ### :book: Homework
 
