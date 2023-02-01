@@ -1,17 +1,17 @@
 # 326.313 Regression Analysis @SNU
 
-### About
+## About
 - Professor : Taeseong Park <br>
 - :computer: Use R language with `iris` package
 
 <br>
 
-### :pencil: Report
+## :pencil: Report
 COVID-19 Cases Analysis in Netherlands with Growth Models
 
 <br>
 
-### :book: Homework
+## :book: Homework
 
 |  주차  |       관련 개념          | 제출 파일 | 과제 코드 | 
 |--------|-------------------------| ----------|----------|
