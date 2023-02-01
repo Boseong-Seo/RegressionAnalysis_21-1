@@ -8,6 +8,7 @@
 
 ## :pencil: Report
 COVID-19 Cases Analysis in Netherlands with Growth Models
+- Used Models : (1) Linear Regression model, (2) Logistic model, (3) Gompertz model
 
 <br>
 
